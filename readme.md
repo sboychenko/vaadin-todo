@@ -1,4 +1,4 @@
-#Vaadin & Spring-boot TODO app
+# Vaadin & Spring-boot TODO app
 
 Simple todo list with Vaadin 8, spring-boot and H2 with JPA
 
