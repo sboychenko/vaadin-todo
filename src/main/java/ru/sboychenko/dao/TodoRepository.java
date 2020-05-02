@@ -1,7 +1,6 @@
 package ru.sboychenko.dao;
 
 import org.springframework.data.jpa.repository.JpaRepository;
-import ru.sboychenko.dao.Todo;
 
 import javax.transaction.Transactional;
 
